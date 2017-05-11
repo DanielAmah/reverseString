@@ -1,0 +1,22 @@
+{
+  "name": "reversestring",
+  "version": "1.0.0",
+  "description": "reverse string",
+  "main": "index.js",
+  "scripts": {
+  "test": "jasmine" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielAmah/reverseString.git"
+  },
+  "author": "Daniel Amah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielAmah/reverseString/issues"
+  },
+  "homepage": "https://github.com/DanielAmah/reverseString#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
