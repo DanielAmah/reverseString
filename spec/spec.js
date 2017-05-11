@@ -2,9 +2,9 @@
 	
 	'use  strict'
 
-	const chai = require('jasmine');
+	const chai = require('jasmine'); // require jasmine testing platform
 	
-	const reverseString = require('../app/library.js');
+	const reverseString = require('../app/library.js');  // require library.js file from app folder
 	
 describe("Produce the reverse order of a word: ", function() {
   describe("Case for en empty string", function() {
